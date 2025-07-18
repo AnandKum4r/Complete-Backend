@@ -34,7 +34,7 @@ Welcome to my **Complete Backend Learning Journey** — a hands-on project built
 
 1. **Clone the repo**
    ```bash
-   git clone[ https://github.com/AnandKum4r/complete-react.git](https://github.com/AnandKum4r/Complete-Backend.git)
+   git clone https://github.com/AnandKum4r/complete-react.git
    cd complete-backend
    ```
    
